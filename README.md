@@ -1,6 +1,6 @@
 # Coderhouse Web Development Course Project
 
-## Project
+## Home page / Desktop view.
 
 ![Project](https://i.imgur.com/MpvVImB.png)
 
