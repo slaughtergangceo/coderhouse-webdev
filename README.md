@@ -17,6 +17,6 @@ Welcome to my personal learning project developed as part of the Coderhouse Web 
 This project is a solo endeavor, demonstrating my individual capability to create a web application using the skills acquired during the course.
 
 ## Connect with Me:
-- 🔍 [LinkedIn]([Link-to-your-LinkedIn-profile](https://www.linkedin.com/in/guillermoerhard/))
+- 🔍 [LinkedIn]([https://www.linkedin.com/in/guillermoerhard/))
 - 💻 [Portfolio](guillermoerhard.com)
 - 📩 Email: me@guillermoerhard.com / guille.erh@gmail.com
