@@ -2,7 +2,7 @@
 
 ## Project
 
-![Project]([[https://i.imgur.com/2VGB6A3.png]](https://imgur.com/a/3vwRrPF))
+![Project](https://imgur.com/a/3vwRrPF)
 
 ## Introduction
 Welcome to my personal learning project developed as part of the Coderhouse Web Development course. This project highlights my proficiency in HTML, CSS, box modeling, media queries, Flexbox, Grids, and Bootstrap, creating a responsive and visually appealing web application.
