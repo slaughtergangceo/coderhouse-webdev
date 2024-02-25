@@ -2,7 +2,7 @@
 
 ## Project
 
-![Project](https://i.imgur.com/2VGB6A3.png)
+![Project]([https://i.imgur.com/2VGB6A3.png])
 
 ## Introduction
 Welcome to my personal learning project developed as part of the Coderhouse Web Development course. This project highlights my proficiency in HTML, CSS, box modeling, media queries, Flexbox, Grids, and Bootstrap, creating a responsive and visually appealing web application.
@@ -17,8 +17,6 @@ Welcome to my personal learning project developed as part of the Coderhouse Web 
 This project is a solo endeavor, demonstrating my individual capability to create a web application using the skills acquired during the course.
 
 ## Connect with Me:
-- 🔍 [LinkedIn](Link-to-your-LinkedIn-profile)
-- 💻 [Portfolio](Link-to-your-portfolio)
-- 📩 Email: your-email@example.com
-
-![Thank you](https://i.imgur.com/TH6jQ9U.png)
+- 🔍 [LinkedIn]([Link-to-your-LinkedIn-profile](https://www.linkedin.com/in/guillermoerhard/))
+- 💻 [Portfolio](guillermoerhard@gmail.com)
+- 📩 Email: me@guillermoerhard.com / guille.erh@gmail.com
