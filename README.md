@@ -18,5 +18,5 @@ This project is a solo endeavor, demonstrating my individual capability to creat
 
 ## Connect with Me:
 - 🔍 [LinkedIn]([Link-to-your-LinkedIn-profile](https://www.linkedin.com/in/guillermoerhard/))
-- 💻 [Portfolio](guillermoerhard@gmail.com)
+- 💻 [Portfolio](guillermoerhard.com)
 - 📩 Email: me@guillermoerhard.com / guille.erh@gmail.com
