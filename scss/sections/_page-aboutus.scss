@@ -1,0 +1,97 @@
+/* --- sobre nosotros - section 1 --- */
+.about-section {
+    padding: 0% 20%;
+}
+
+.about-us {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 4rem;
+}
+
+.about-main-img img{
+    max-width: 100%;
+    width: 560px;
+    height: auto;
+}
+
+.about-text {
+    padding: 6% 0;
+}
+
+.about-text h4 {
+    color: blueviolet;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.about-text h1 {
+    color: white;
+    font-size: 36px;
+    text-transform: capitalize;
+    font-weight: 700;
+    line-height: 46px;
+    margin-bottom: 30px;
+}
+
+.about-text hr {
+    width: 30%;
+    border: none;
+    height: 2px;
+    background-color: blueviolet;
+    margin-bottom: 50px;
+}
+
+.about-text p {
+    max-width: 600px;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+    margin-bottom: 60px;
+}
+
+@media(max-width:1385px){
+    .about-section{
+        padding: 4% 4%;
+        transition: .3s;
+    }
+    .about-main-img img{
+        width: 500px;
+        height: auto;
+        transition: .3s;
+    }
+}
+@media(max-width:1230px){
+    .about-text h1{
+        font-size: 30px;
+        transition: .3s;
+    }
+}
+@media(max-width:1040px){
+    .about-us{
+        grid-template-columns: 1fr;
+        height: 100%;
+    }
+    .about-main-img{
+        padding-top: 40px;
+    }
+}
+
+/* --- sobre nosotros - iframe --- */
+.iframe-about-local{
+    display: flex;
+    justify-content: center;
+}
+.about-local-title h1{
+    display: flex;
+    color: white;
+    font-size: 36px;
+    text-transform: capitalize;
+    font-weight: 700;
+    line-height: 46px;
+    margin-bottom: 30px;
+    justify-content: center;
+}

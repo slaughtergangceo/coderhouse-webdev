@@ -1,0 +1,60 @@
+/* ===== NAVBAR ===== */
+
+.dropdown-menu {
+    background-color: transparent;
+    border: none;
+}
+
+/* ===== PAGE HEADER ===== */
+
+.separator {
+    margin: 3px;
+    opacity: .6;
+    color: white;
+}
+
+.crumb {
+    line-height: 14px;
+    opacity: 6;
+    color: white;
+    text-decoration: none;
+}
+
+.crumb a:active {
+    color: blueviolet;
+}
+
+.breadcrumbs {
+    display: inline-block;
+    margin: 0;
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+}
+        
+.page-header {
+    display: flex;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 18px;
+}
+
+.page-ruta {
+    display: flex;
+}
+
+.page-title h1{
+    color: white;
+    font-size: 32px;
+    text-transform: capitalize;
+    font-weight: 700;
+    line-height: 46px;
+}
+
+.page-hr hr {
+    width: 100%;
+    border: none;
+    height: 2px;
+    background-color: blueviolet;
+    margin-bottom: 50px;
+}
