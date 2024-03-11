@@ -9,48 +9,58 @@
     gap: 4rem;
 }
 
-.about-main-img img{
-    max-width: 100%;
-    width: 560px;
-    height: auto;
+.about-main-img {
+    img {
+        max-width: 100%;
+        width: 560px;
+        height: auto;
+    }
 }
 
 .about-text {
     padding: 6% 0;
 }
 
-.about-text h4 {
-    color: blueviolet;
-    font-size: 16px;
-    font-weight: 600;
-    text-transform: uppercase;
-    margin-bottom: 10px;
+.about-text {
+    h4 {
+        color: blueviolet;
+        font-size: 16px;
+        font-weight: 600;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
 }
 
-.about-text h1 {
-    color: white;
-    font-size: 36px;
-    text-transform: capitalize;
-    font-weight: 700;
-    line-height: 46px;
-    margin-bottom: 30px;
+.about-text {
+    h1 {
+        color: white;
+        font-size: 36px;
+        text-transform: capitalize;
+        font-weight: 700;
+        line-height: 46px;
+        margin-bottom: 30px;
+    }
 }
 
-.about-text hr {
-    width: 30%;
-    border: none;
-    height: 2px;
-    background-color: blueviolet;
-    margin-bottom: 50px;
+.about-text {
+    hr {
+        width: 30%;
+        border: none;
+        height: 2px;
+        background-color: blueviolet;
+        margin-bottom: 50px;
+    }
 }
 
-.about-text p {
-    max-width: 600px;
-    color: white;
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 1.7;
-    margin-bottom: 60px;
+.about-text {
+    p {
+        max-width: 600px;
+        color: white;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 1.7;
+        margin-bottom: 60px;
+    }
 }
 
 @media(max-width:1385px){
@@ -58,16 +68,20 @@
         padding: 4% 4%;
         transition: .3s;
     }
-    .about-main-img img{
-        width: 500px;
-        height: auto;
-        transition: .3s;
+    .about-main-img {
+        img {
+            width: 500px;
+            height: auto;
+            transition: .3s;
+        }
     }
 }
 @media(max-width:1230px){
-    .about-text h1{
-        font-size: 30px;
-        transition: .3s;
+    .about-text {
+        h1 {
+            font-size: 30px;
+            transition: .3s;
+        }
     }
 }
 @media(max-width:1040px){

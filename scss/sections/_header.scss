@@ -20,8 +20,10 @@
     text-decoration: none;
 }
 
-.crumb a:active {
-    color: blueviolet;
+.crumb {
+    a:active {
+        color: blueviolet;
+    }    
 }
 
 .breadcrumbs {
@@ -43,18 +45,22 @@
     display: flex;
 }
 
-.page-title h1{
-    color: white;
-    font-size: 32px;
-    text-transform: capitalize;
-    font-weight: 700;
-    line-height: 46px;
+.page-title {
+    h1 {
+        color: white;
+        font-size: 32px;
+        text-transform: capitalize;
+        font-weight: 700;
+        line-height: 46px;
+    }
 }
 
-.page-hr hr {
-    width: 100%;
-    border: none;
-    height: 2px;
-    background-color: blueviolet;
-    margin-bottom: 50px;
+.page-hr {
+    hr {
+        width: 100%;
+        border: none;
+        height: 2px;
+        background-color: blueviolet;
+        margin-bottom: 50px;
+    }
 }
