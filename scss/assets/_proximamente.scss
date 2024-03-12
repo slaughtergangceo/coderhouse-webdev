@@ -1,6 +1,8 @@
 .enconstruccion {
-    display: inline-block;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Ajusta la altura según tus necesidades */
     color: white;
     font-weight: bold;
 }
@@ -13,7 +15,7 @@
     white-space: nowrap;
     font-weight: lighter;
     margin: 0 auto;
-    animation: typing 1s steps(20, end), cursor 0.5s step-end infinite;
+    animation: typing 3s steps(20, end), cursor 0.5s step-end infinite;
 }
 
 @keyframes typing {
